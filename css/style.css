@@ -25,11 +25,31 @@ div {
 }
 
 .column {
-  width: 33%;
+  width: 30%;
   float: left;
 }
 
 .block {
   border-color: blue;
   border-width: medium;
+}
+
+.truth {
+  border: 2px blue;
+  padding: 4px;
+  margin: 10px;
+  background-color: skyblue;
+}
+
+.truth1 {
+  font-weight: lighter;
+}
+
+.truth2 {
+  font-weight: bolder;
+}
+
+.truth p a {
+  font-weight: bold;
+  font-family: monospace;;
 }
