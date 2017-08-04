@@ -1,0 +1,35 @@
+body {
+    background-image: url("http://www.psdgraphics.com/file/abstract-mosaic-background.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    margin-right: 0px;
+    opacity: .99;
+    background-attachment: fixed;
+}
+
+div {
+  background-color: white;
+}
+
+.important {
+  color: darkblue
+}
+
+.unimportant {
+  color: skyblue
+}
+
+.sport {
+  text-decoration: underline;
+}
+
+.column {
+  width: 33%;
+  float: left;
+}
+
+.block {
+  border-color: blue;
+  border-width: medium;
+}
